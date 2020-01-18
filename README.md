@@ -1,4 +1,4 @@
 Projekt na przedmiot: Narzędzia Programistyczne
 
 Wykonanie:
-Łukasz Jarema   Mariusz Kuich
+Łukasz Jarema oraz Mariusz Kuich
