@@ -4,8 +4,8 @@
 int main()
 {
     float number;
-    printf("Enter number of kilometers to convert: ");
+    printf("Enter number of gigabytes [GB] to convert: ");
     scanf("%f", &number);
-    printf("\n%.2f km = %.2f m = %.2f dm = %.2f cm = %.2f mm\n", number, number*1000, number*10000, number*100000, number*1000000);
+    printf("\n%.2f GB = %.2f MB = %.2f KB = %.2f B = %.2f b\n", number, number*1000, number*1000000, number*1000000000, number*8000000000);
     return 0;
 }
